@@ -1,8 +1,7 @@
 # obstacle-avoiding-robot
 
 
-
-https://youtu.be/eqE3SJC6Bx8
+https://youtu.be/b2gPgKsJr_U
 
 
 
